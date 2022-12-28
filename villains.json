@@ -12,6 +12,15 @@
             "updated_at": "2022-12-27T12:31:52.000000Z"
         },
         {
+            "id": 2,
+            "name": "Vergil",
+            "game": "Devil May Cry",
+            "publisher": "Capcom",
+            "photo": "https://widyax1900.github.io/villains.github.io/img/i8dJmDWTo8lTHkfVh1YWiepKBO0odrVT3cEUnbQo.jpg",
+            "created_at": "2022-12-27T12:33:34.000000Z",
+            "updated_at": "2022-12-27T12:55:35.000000Z"
+        },
+        {
             "id": 3,
             "name": "Senator Armstrong",
             "game": "Metal Gear Rising: Revengeance",
