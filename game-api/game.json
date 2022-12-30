@@ -7,7 +7,7 @@
             "name": "Devil May Cry 3",
             "publisher": "Capcom",
             "genre": "action",
-            "cover": "GOcLfmJbn9NkMAmuOsg6F8RQf6bnmxB04eEZCRk7.jpg",
+            "cover": "https://widyax1900.github.io/villains.github.io/game-api/img/GOcLfmJbn9NkMAmuOsg6F8RQf6bnmxB04eEZCRk7.jpg",
             "created_at": "2022-12-30T11:54:49.000000Z",
             "updated_at": "2022-12-30T12:11:13.000000Z"
         },
@@ -16,7 +16,7 @@
             "name": "Metal Gear Rising: Revengeance",
             "publisher": "Konami",
             "genre": "action",
-            "cover": "SzjqB20oMwvRhXgKq5naVu9QBBO4R6ZQUSkINWTS.jpg",
+            "cover": "https://widyax1900.github.io/villains.github.io/game-api/img/SzjqB20oMwvRhXgKq5naVu9QBBO4R6ZQUSkINWTS.jpg",
             "created_at": "2022-12-30T12:03:18.000000Z",
             "updated_at": "2022-12-30T12:15:40.000000Z"
         },
@@ -25,7 +25,7 @@
             "name": "Resident Evil 4",
             "publisher": "Capcom",
             "genre": "horror",
-            "cover": "RHTgIa13o9JzOBqzfK9sf9JkhWGZCeannxINfHau.jpg",
+            "cover": "https://widyax1900.github.io/villains.github.io/game-api/img/RHTgIa13o9JzOBqzfK9sf9JkhWGZCeannxINfHau.jpg",
             "created_at": "2022-12-30T12:03:47.000000Z",
             "updated_at": "2022-12-30T12:17:46.000000Z"
         },
@@ -34,7 +34,7 @@
             "name": "God of War",
             "publisher": "Sony Computer",
             "genre": "action",
-            "cover": "sXD3fqv9xmhzoyn9joU2N8FywbSvh58ISuo58IRS.jpg",
+            "cover": "https://widyax1900.github.io/villains.github.io/game-api/img/sXD3fqv9xmhzoyn9joU2N8FywbSvh58ISuo58IRS.jpg",
             "created_at": "2022-12-30T12:04:18.000000Z",
             "updated_at": "2022-12-30T12:19:07.000000Z"
         }
